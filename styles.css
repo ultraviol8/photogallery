@@ -1,0 +1,13 @@
+img{
+    width: 28%;
+    height: 300px;
+    margin: calc(10%/6);
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin: 10px 20px;
+    font-family: Lato, sans-serif;
+    border-bottom: 2px solid rgb(212, 212, 212);
+}
